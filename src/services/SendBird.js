@@ -1,6 +1,6 @@
 const SendBird = require('sendbird')
 const sendBird = new SendBird({
-  appId: '68674597-B6D6-475B-A18C-03C888756D3F'
+  appId: '1CC03F75-6771-4010-B63F-52AA75BAEC83'
 })
 const ChannelHandler = new sendBird.ChannelHandler()
 
